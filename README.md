@@ -1,2 +1,0 @@
-# NextJs
-NextJs(TypeScript)
